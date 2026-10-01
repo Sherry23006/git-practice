@@ -1,1 +1,1 @@
-improve application header
+add footer section to application
